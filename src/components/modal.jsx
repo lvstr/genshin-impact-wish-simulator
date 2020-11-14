@@ -22,13 +22,13 @@ export default function Modal(props) {
             I am not affiliated with Mihoyo, all assets in this application were taken from third party websites and some screenshotted from the game itself.
           </p>
           <p>
-            If you are someone from Mihoyo and would like this website taken down please email me <a href="mailto:uzinatorcl@gmail.com">here</a> and I shall do so.
+            If you are someone from Mihoyo and would like this website taken down please email me <a href="mailto:kaibro55621@gmail.com">here</a> and I shall do so.
           </p>
           <p>
             Pls don't get me in trouble this was just for fun T_T
           </p>
           <p>
-            The source code is available <a href="https://github.com/uzair-ashraf/genshin-impact-wish-simulator" target="_blank">here</a>, please give it a star if you like it!
+            I'm the Creator of this Web, The source code is available <a href="https://github.com/uzair-ashraf/genshin-impact-wish-simulator" target="_blank">here</a>, please give it a star if you like it!
           </p>
           <p>
             All product names, logos, and brands are property of their respective owners in the United States and/or other countries.
