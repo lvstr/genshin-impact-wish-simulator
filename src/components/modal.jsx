@@ -28,7 +28,7 @@ export default function Modal(props) {
             Pls don't get me in trouble this was just for fun T_T
           </p>
           <p>
-            I'm the Creator of this Web, The source code is available <a href="https://github.com/uzair-ashraf/genshin-impact-wish-simulator" target="_blank">here</a>, please give it a star if you like it!
+            I'm not the Creator of this Web, The source code is available <a href="https://github.com/uzair-ashraf/genshin-impact-wish-simulator" target="_blank">here</a>, please give it a star if you like it!
           </p>
           <p>
             All product names, logos, and brands are property of their respective owners in the United States and/or other countries.
